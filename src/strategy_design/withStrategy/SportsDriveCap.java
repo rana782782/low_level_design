@@ -1,4 +1,4 @@
-package withStrategy;
+package strategy_design.withStrategy;
 
 public class SportsDriveCap implements DriverStrategy{
     @Override

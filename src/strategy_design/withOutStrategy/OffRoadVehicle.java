@@ -1,4 +1,4 @@
-package withOutStrategy;
+package strategy_design.withOutStrategy;
 
 public class OffRoadVehicle extends Vehicle{
     @Override
